@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+  }
+    #contain{
+      display:flex;
+      height: 780px;
+      /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  */
+    
+    }
+    p a{
+      color: #0084bd;
+      text-decoration: underline;
+    }
+    h2{
+      text-align: center;
+      text-decoration: underline;
+      margin-top: -10px;
+      font-size: 30px;
+    
+    }
